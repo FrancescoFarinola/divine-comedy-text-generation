@@ -23,7 +23,7 @@ Seq2Seq model is the one working worse since old italian word embeddings might b
 4. Tries on seq2seq model:
     - Random strategy for word embeddings
     - Similarity strategy for word embeddings
-    - Substituting two stacked GRUs in Encoder with a Bidirectional GRU
-    - Adding Bahdanau and Luong Attention (AdditiveAttention and Attention keras layers)
+    - Substituted two stacked GRUs in Encoder with a Bidirectional GRU
+    - Added Bahdanau and Luong Attention (AdditiveAttention and Attention keras layers)
     - Added normalized term frequency as input to the encoder and decoder (both and individually - 3 tries) to see if unfrequent terms are handled better
-    - Tried different batch sizes (even 1), stateful and stateless GRUs, number of units, added dropout
+    - Different batch sizes (even 1), stateful and stateless GRUs, number of units, dropout
