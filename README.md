@@ -20,6 +20,7 @@ Seq2Seq model is the one working worse since old italian word embeddings might b
     - Beam search
 3. Scoring:
     - BLEU score
+    - METEOR score
 4. Tries on seq2seq model:
     - Random strategy for word embeddings
     - Similarity strategy for word embeddings
