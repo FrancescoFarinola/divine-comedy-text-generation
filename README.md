@@ -1,6 +1,6 @@
 # Dante's text generation
 
-This is an additional project word for the Natural Language Processing course of the MSc in Artificial Intelligence at Alma Mater Studiorum - University of Bologna.
+This is an additional project work for the Natural Language Processing course of the MSc in Artificial Intelligence at Alma Mater Studiorum - University of Bologna.
 The aim is to exploit and try to implement different techniques for text generation using Dante's Divine Comedy as dataset.
 
 Among all the techniques seen, the one working better is the char-level text generation, so it might be a good idea to focus on improvements of this model.
